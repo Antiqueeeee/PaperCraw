@@ -42,4 +42,4 @@ with open("data/chinese_paper.json","w",encoding="utf-8") as f:
     json.dump(chinese_paper,f,ensure_ascii=False,indent=2)
 
 with open("data/english_paper.json","w",encoding="utf-8") as f:
-    json.dump(chinese_paper,f,ensure_ascii=False,indent=2)
+    json.dump(english_paper,f,ensure_ascii=False,indent=2)
